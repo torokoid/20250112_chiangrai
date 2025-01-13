@@ -164,7 +164,7 @@ p.note { display: none; }
 <h2><span class="yellow">昨日より一段と丸くなってます</span></h2>
 <a href="20250112_017.JPG" target="_blank"><img src="20250112_017.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">夕暮れは綺麗なグラデーション</span></h2>
+<h2><span class="yellow">近場のスーパーでは夕暮れの綺麗なグラデーション</span></h2>
 <a href="20250112_018.JPG" target="_blank"><img src="20250112_018.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">東の空には先ほどのお月様</span></h2>
